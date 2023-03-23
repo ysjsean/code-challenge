@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ethers": "^6.2.0",
+    "typescript": "^5.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.5"
+  }
+}
